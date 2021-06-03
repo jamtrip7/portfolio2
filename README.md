@@ -1,7 +1,11 @@
 # Portfolio 2
 
 ![Dashboard Image](assets/screenshot/screenshot1.jpg)
+<<<<<<< HEAD
 > [Jamie Rippee Portfolio](https://jamtrip7.github.io/portfolio2/index.html)
+=======
+> [README Portfolio 2](https://jamtrip7.github.io/portfolio2/index.html)
+>>>>>>> 55d7e036deedae24929a001c93ce7e60988acf66
 ---
 ### Table of Contents
 - [Descritption](#description)
@@ -36,12 +40,19 @@ Portfolio 2 brings new features and showcases the growth from my first portfolio
 - Click on on of the options to open a modal with information.
 - Modals have attachements to click on and view material.
 
+<<<<<<< HEAD
 <u>Modal Wheel</u>
 
 ![Modal wheel](assets/screenshot/screenshot2.jpg)
 
 <u>Modal wheel w/ open menu</u>
 
+=======
+- Modal Wheel
+![Modal wheel](assets/screenshot/screenshot2.jpg)
+
+- Modal wheel w/ open menu
+>>>>>>> 55d7e036deedae24929a001c93ce7e60988acf66
 ![Modal wheel w/ open menu](assets/screenshot/screenshot3.jpg)
   
 [Back to Top](#Portfolio-2)
