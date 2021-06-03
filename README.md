@@ -1,11 +1,7 @@
 # Portfolio 2
 
 ![Dashboard Image](assets/screenshot/screenshot1.jpg)
-<<<<<<< HEAD
 > [Jamie Rippee Portfolio](https://jamtrip7.github.io/portfolio2/index.html)
-=======
-> [README Portfolio 2](https://jamtrip7.github.io/portfolio2/index.html)
->>>>>>> 55d7e036deedae24929a001c93ce7e60988acf66
 ---
 ### Table of Contents
 - [Descritption](#description)
