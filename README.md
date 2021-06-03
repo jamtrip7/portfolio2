@@ -36,9 +36,11 @@ Portfolio 2 brings new features and showcases the growth from my first portfolio
 - Click on on of the options to open a modal with information.
 - Modals have attachements to click on and view material.
 
-[Modal wheel](assets/screenshot/screenshot2.jpg)
+- Modal Wheel
+![Modal wheel](assets/screenshot/screenshot2.jpg)
 
-[Modal wheel w/ open menu](assets/screenshot/screenshot3.jpg)
+- Modal wheel w/ open menu
+![Modal wheel w/ open menu](assets/screenshot/screenshot3.jpg)
   
 [Back to Top](#Portfolio-2)
 
