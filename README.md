@@ -1,7 +1,7 @@
 # Portfolio 2
 
-![Dashboard Image]()
-> [README Portfolio 2]()
+![Dashboard Image](assets\screenshot\screenshot1.jp)
+> [README Portfolio 2](https://jamtrip7.github.io/portfolio2/index.html)
 ---
 ### Table of Contents
 - [Descritption](#description)
@@ -35,6 +35,10 @@ Portfolio 2 brings new features and showcases the growth from my first portfolio
 - Menu option will rotate open.
 - Click on on of the options to open a modal with information.
 - Modals have attachements to click on and view material.
+
+[Modal wheel](assets\screenshot\screenshot2.jpg)
+
+[Modal wheel w/ open menu](assets\screenshot\screenshot3.jpg)
   
 [Back to Top](#Portfolio-2)
 
