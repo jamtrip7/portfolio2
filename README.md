@@ -1,6 +1,6 @@
 # Portfolio 2
 
-![Dashboard Image](assets/screenshot/screenshot1.jp)
+![Dashboard Image](assets/screenshot/screenshot1.jpg)
 > [README Portfolio 2](https://jamtrip7.github.io/portfolio2/index.html)
 ---
 ### Table of Contents
